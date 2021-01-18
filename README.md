@@ -1,0 +1,1 @@
+Sahara is the brand new online store for all your needs. This project has been created with vanilla Javascript, Express, Node and MongoDB. 
